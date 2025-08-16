@@ -24,7 +24,7 @@ It supports both uppercase and lowercase letters, and leaves non-alphabetic char
 Simple and user-friendly CLI interface.
 
 Project Structure 
-### caesar_cipher.py # Main Python program
+### caesar.py # Main Python program
 ### README.md # Project documentation
 
 ## Requirements
